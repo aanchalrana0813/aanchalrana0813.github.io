@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+This is the portfolio designed with the help pf boothstrapmade.
+This includes all my Profile, Education, Skills, Projects and my Contact details.
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+
+What is looks like: -
